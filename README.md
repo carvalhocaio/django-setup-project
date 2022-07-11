@@ -1,2 +1,5 @@
-# django-setup-project
-The inital application setup for Django
+# Django Setup Application
+
+The initial application setup for Django
+
+---
